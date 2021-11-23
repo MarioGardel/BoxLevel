@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BoxLevel</string>
+    <string name="entrar">Entrar</string>
+    <string name="logo_descripcion">Logo</string>
+    <string name="Reservar">Reservar</string>
+    <string name="empty_list">No hay reservas</string>
+    <string name="reservado">Hora reservada</string>
+    <string name="sobre_nosotros">Sobre nosotros</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="no_encontrada">Aplicación No Encontrada</string>
+</resources>

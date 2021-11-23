@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Me lleva a la página de información-->
+    <item android:id="@+id/sobreNosotros"
+        android:title="@string/sobre_nosotros"/>
+
+    <!-- Me lleva a la app de correo para mandar un mensaje-->
+    <item android:id="@+id/ayuda"
+        android:title="@string/ayuda"/>
+
+    <item android:id="@+id/cerrarSesion"
+        android:title="@string/cerrar_sesion"/>
+</menu>
